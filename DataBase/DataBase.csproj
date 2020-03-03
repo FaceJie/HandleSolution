@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dos.Common" Version="2.91.0" />
+    <PackageReference Include="Dos.ORM" Version="1.17.0" />
+    <PackageReference Include="Dos.ORM.NoSql" Version="2.6.0" />
+  </ItemGroup>
+
+</Project>

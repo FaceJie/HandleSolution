@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "访问层", "访问层", "{62746951-09F8-4120-9937-2525DA57A18C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "应用层", "应用层", "{08FD2DED-BB4C-4903-B779-D0467E605BDD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "基础层", "基础层", "{6B3971D5-E9DC-4EE2-A6AE-83B8DF04951A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthLogin", "OAuthLogin\OAuthLogin.csproj", "{5CEF6170-128B-40E8-BDE7-3900AB710E05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleWeb", "HandleWeb\HandleWeb.csproj", "{ECA52504-BD97-4284-9E96-ECF6C6535B06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonHelper", "TimeHelper\CommonHelper.csproj", "{57B19091-3C4E-40F9-953F-5554327A0B29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTest", "NUnitTest\NUnitTest.csproj", "{571F5651-050B-4235-B789-1B475171EA70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "测试层", "测试层", "{5C734A73-A709-4879-B5CC-29BBAF0E297E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{4FCD13E8-7B30-4980-91A7-4E4C5081C48A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CEF6170-128B-40E8-BDE7-3900AB710E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CEF6170-128B-40E8-BDE7-3900AB710E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CEF6170-128B-40E8-BDE7-3900AB710E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CEF6170-128B-40E8-BDE7-3900AB710E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA52504-BD97-4284-9E96-ECF6C6535B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA52504-BD97-4284-9E96-ECF6C6535B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA52504-BD97-4284-9E96-ECF6C6535B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA52504-BD97-4284-9E96-ECF6C6535B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B19091-3C4E-40F9-953F-5554327A0B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B19091-3C4E-40F9-953F-5554327A0B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B19091-3C4E-40F9-953F-5554327A0B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B19091-3C4E-40F9-953F-5554327A0B29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{571F5651-050B-4235-B789-1B475171EA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{571F5651-050B-4235-B789-1B475171EA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{571F5651-050B-4235-B789-1B475171EA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{571F5651-050B-4235-B789-1B475171EA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FCD13E8-7B30-4980-91A7-4E4C5081C48A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FCD13E8-7B30-4980-91A7-4E4C5081C48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FCD13E8-7B30-4980-91A7-4E4C5081C48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FCD13E8-7B30-4980-91A7-4E4C5081C48A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5CEF6170-128B-40E8-BDE7-3900AB710E05} = {08FD2DED-BB4C-4903-B779-D0467E605BDD}
+		{ECA52504-BD97-4284-9E96-ECF6C6535B06} = {62746951-09F8-4120-9937-2525DA57A18C}
+		{57B19091-3C4E-40F9-953F-5554327A0B29} = {08FD2DED-BB4C-4903-B779-D0467E605BDD}
+		{571F5651-050B-4235-B789-1B475171EA70} = {5C734A73-A709-4879-B5CC-29BBAF0E297E}
+		{4FCD13E8-7B30-4980-91A7-4E4C5081C48A} = {6B3971D5-E9DC-4EE2-A6AE-83B8DF04951A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0185C5C7-37B1-414E-9ACA-10E214344C07}
+	EndGlobalSection
+EndGlobal

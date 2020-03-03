@@ -1,0 +1,8 @@
+E:\vsProject\HandleSolution\TimeHelper\bin\Debug\netstandard2.0\CommonHelper.deps.json
+E:\vsProject\HandleSolution\TimeHelper\bin\Debug\netstandard2.0\CommonHelper.dll
+E:\vsProject\HandleSolution\TimeHelper\bin\Debug\netstandard2.0\CommonHelper.pdb
+E:\vsProject\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.csprojAssemblyReference.cache
+E:\vsProject\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.AssemblyInfoInputs.cache
+E:\vsProject\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.AssemblyInfo.cs
+E:\vsProject\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.dll
+E:\vsProject\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.pdb

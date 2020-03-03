@@ -1,0 +1,7 @@
+E:\vsProject\HandleSolution\OAuthLogin\bin\Debug\netstandard2.0\OAuthLogin.deps.json
+E:\vsProject\HandleSolution\OAuthLogin\bin\Debug\netstandard2.0\OAuthLogin.dll
+E:\vsProject\HandleSolution\OAuthLogin\bin\Debug\netstandard2.0\OAuthLogin.pdb
+E:\vsProject\HandleSolution\OAuthLogin\obj\Debug\netstandard2.0\OAuthLogin.AssemblyInfoInputs.cache
+E:\vsProject\HandleSolution\OAuthLogin\obj\Debug\netstandard2.0\OAuthLogin.AssemblyInfo.cs
+E:\vsProject\HandleSolution\OAuthLogin\obj\Debug\netstandard2.0\OAuthLogin.dll
+E:\vsProject\HandleSolution\OAuthLogin\obj\Debug\netstandard2.0\OAuthLogin.pdb

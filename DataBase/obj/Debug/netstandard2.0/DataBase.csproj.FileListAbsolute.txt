@@ -1,0 +1,3 @@
+E:\vsProject\HandleSolution\DataBase\obj\Debug\netstandard2.0\DataBase.csprojAssemblyReference.cache
+E:\vsProject\HandleSolution\DataBase\obj\Debug\netstandard2.0\DataBase.AssemblyInfoInputs.cache
+E:\vsProject\HandleSolution\DataBase\obj\Debug\netstandard2.0\DataBase.AssemblyInfo.cs
