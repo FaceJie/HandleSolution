@@ -31,6 +31,21 @@ namespace HandleWeb
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
         }
 
+
+
+        #region 中间件的配置 配置顺序
+        /*
+         *  一般的应用中的 Startup.Configure 方法添加中间组件的顺序：
+            Exception/error handling
+            HTTP Strict Transport Security Protocol
+            HTTPS redirection
+            Static file server
+            Cookie policy enforcement
+            Authentication
+            Session
+            MVC
+         */
+        #endregion
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
