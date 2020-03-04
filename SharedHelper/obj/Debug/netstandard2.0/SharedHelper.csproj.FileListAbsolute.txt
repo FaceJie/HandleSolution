@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\SharedHelper\bin\Debug\netstandard2.0\SharedHelper.deps.json
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\SharedHelper\bin\Debug\netstandard2.0\SharedHelper.dll
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\SharedHelper\bin\Debug\netstandard2.0\SharedHelper.pdb
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\SharedHelper\obj\Debug\netstandard2.0\SharedHelper.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\SharedHelper\obj\Debug\netstandard2.0\SharedHelper.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\SharedHelper\obj\Debug\netstandard2.0\SharedHelper.dll
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\SharedHelper\obj\Debug\netstandard2.0\SharedHelper.pdb

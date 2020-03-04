@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ModelViewHelper\bin\Debug\netstandard2.0\ModelViewHelper.deps.json
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ModelViewHelper\bin\Debug\netstandard2.0\ModelViewHelper.dll
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ModelViewHelper\bin\Debug\netstandard2.0\ModelViewHelper.pdb
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ModelViewHelper\obj\Debug\netstandard2.0\ModelViewHelper.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ModelViewHelper\obj\Debug\netstandard2.0\ModelViewHelper.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ModelViewHelper\obj\Debug\netstandard2.0\ModelViewHelper.dll
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ModelViewHelper\obj\Debug\netstandard2.0\ModelViewHelper.pdb

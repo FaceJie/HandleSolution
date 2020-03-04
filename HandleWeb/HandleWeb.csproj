@@ -9,23 +9,34 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="ElmahCore" Version="1.2.5" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="8.6.2" />
+    <PackageReference Include="Hangfire.AspNetCore" Version="1.7.9" />
+    <PackageReference Include="Hangfire.Core" Version="1.7.9" />
+    <PackageReference Include="Hangfire.MemoryStorage.Core" Version="1.4.0" />
+    <PackageReference Include="Hangfire.SqlServer" Version="1.7.9" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.0.0">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="3.1.2" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="5.0.2" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Areas\OAuth\Data\" />
     <Folder Include="Areas\OAuth\Models\" />
+    <Folder Include="Validation\" />
+    <Folder Include="WebHelper\" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ApplicationHelper\ApplicationHelper.csproj" />
     <ProjectReference Include="..\DataBase\DataBase.csproj" />
     <ProjectReference Include="..\OAuthLogin\OAuthLogin.csproj" />
+    <ProjectReference Include="..\SharedHelper\SharedHelper.csproj" />
     <ProjectReference Include="..\TimeHelper\CommonHelper.csproj" />
   </ItemGroup>
 

@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ApplicationHelper\bin\Debug\netstandard2.0\ApplicationHelper.deps.json
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ApplicationHelper\bin\Debug\netstandard2.0\ApplicationHelper.dll
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ApplicationHelper\bin\Debug\netstandard2.0\ApplicationHelper.pdb
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ApplicationHelper\bin\Debug\netstandard2.0\EnmuHelper.dll
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ApplicationHelper\bin\Debug\netstandard2.0\ModelViewHelper.dll
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ApplicationHelper\bin\Debug\netstandard2.0\EnmuHelper.pdb
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ApplicationHelper\bin\Debug\netstandard2.0\ModelViewHelper.pdb
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ApplicationHelper\obj\Debug\netstandard2.0\ApplicationHelper.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ApplicationHelper\obj\Debug\netstandard2.0\ApplicationHelper.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ApplicationHelper\obj\Debug\netstandard2.0\ApplicationHelper.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ApplicationHelper\obj\Debug\netstandard2.0\ApplicationHelper.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ApplicationHelper\obj\Debug\netstandard2.0\ApplicationHelper.dll
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ApplicationHelper\obj\Debug\netstandard2.0\ApplicationHelper.pdb

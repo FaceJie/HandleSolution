@@ -9,7 +9,6 @@ E:\vsProject\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.pdb
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\TimeHelper\bin\Debug\netstandard2.0\CommonHelper.deps.json
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\TimeHelper\bin\Debug\netstandard2.0\CommonHelper.dll
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\TimeHelper\bin\Debug\netstandard2.0\CommonHelper.pdb
-C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.csprojAssemblyReference.cache
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.AssemblyInfoInputs.cache
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.AssemblyInfo.cs
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.dll

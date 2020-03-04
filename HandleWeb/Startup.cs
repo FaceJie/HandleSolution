@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using CommonHelper;
 using DataBase;
+using HandleWeb.Configuration;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -25,6 +26,7 @@ namespace HandleWeb
         public IConfiguration Configuration { get; }
         public void ConfigureServices(IServiceCollection services)
         {
+
             services.AddControllersWithViews();
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
         }
@@ -41,6 +43,9 @@ namespace HandleWeb
                 app.UseExceptionHandler("/Home/Error");
                 app.UseHsts();
             }
+
+            //注入中间件
+            app.ConfigureMiddlewares();
 
             #region 注入配置
 
@@ -59,6 +64,7 @@ namespace HandleWeb
             //把IHostingEnvironment 注入FilesHelper
             app.UseWkMvcDI();
             #endregion
+
 
             #region 启用多个配置
             app.UseHttpsRedirection();

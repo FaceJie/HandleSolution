@@ -4,7 +4,6 @@ E:\vsProject\HandleSolution\DataBase\obj\Debug\netstandard2.0\DataBase.AssemblyI
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.0\DataBase.deps.json
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.0\DataBase.dll
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.0\DataBase.pdb
-C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\obj\Debug\netstandard2.0\DataBase.csprojAssemblyReference.cache
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\obj\Debug\netstandard2.0\DataBase.AssemblyInfoInputs.cache
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\obj\Debug\netstandard2.0\DataBase.AssemblyInfo.cs
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\obj\Debug\netstandard2.0\DataBase.dll
