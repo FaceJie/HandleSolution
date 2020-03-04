@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\vsProject\\HandleSolution\\DataBase\\DataBase.csproj": {}
+    "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\DataBase\\DataBase.csproj": {}
   },
   "projects": {
-    "E:\\vsProject\\HandleSolution\\DataBase\\DataBase.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\DataBase\\DataBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\vsProject\\HandleSolution\\DataBase\\DataBase.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\DataBase\\DataBase.csproj",
         "projectName": "DataBase",
-        "projectPath": "E:\\vsProject\\HandleSolution\\DataBase\\DataBase.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\DataBase\\DataBase.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\vsProject\\HandleSolution\\DataBase\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\DataBase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\",

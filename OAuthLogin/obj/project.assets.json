@@ -618,7 +618,7 @@
       ]
     },
     "System.Memory/4.5.1": {
-      "sha512": "sDJYJpGtTgx+23Ayu5euxG5mAXWdkDb4+b0rD0Cab0M1oQS9H0HXGPriKcqpXuiJDTV7fTp/d+fMDJmnr6sNvA==",
+      "sha512": "+d3m2hy4SIT9GGt1MxHGqLB5VGKH1RWFoi7elwZwJshGRnzpRyFnOs8VmnLxhZ9SacMp5DA8+R6cuc4UrgsmGQ==",
       "type": "package",
       "path": "system.memory/4.5.1",
       "files": [
@@ -685,7 +685,7 @@
       ]
     },
     "System.Runtime.CompilerServices.Unsafe/4.5.1": {
-      "sha512": "Zh8t8oqolRaFa9vmOZfdQm/qKejdqz0J9kr7o2Fu0vPeoH3BL1EOXipKWwkWtLT1JPzjByrF19fGuFlNbmPpiw==",
+      "sha512": "UVyWgFFBN41KHkBcSVkv1fxCGRzFQ+ssZtkTVrVOdKEva31yHejvlnHbfBGn8hbvjOY0iT5UfSp0kAIPh3s2/w==",
       "type": "package",
       "path": "system.runtime.compilerservices.unsafe/4.5.1",
       "files": [
@@ -744,11 +744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\vsProject\\HandleSolution\\OAuthLogin\\OAuthLogin.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\OAuthLogin\\OAuthLogin.csproj",
       "projectName": "OAuthLogin",
-      "projectPath": "E:\\vsProject\\HandleSolution\\OAuthLogin\\OAuthLogin.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\OAuthLogin\\OAuthLogin.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "E:\\vsProject\\HandleSolution\\OAuthLogin\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\OAuthLogin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\",

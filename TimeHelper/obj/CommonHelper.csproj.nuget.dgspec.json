@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\vsProject\\HandleSolution\\TimeHelper\\CommonHelper.csproj": {}
+    "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\TimeHelper\\CommonHelper.csproj": {}
   },
   "projects": {
-    "E:\\vsProject\\HandleSolution\\TimeHelper\\CommonHelper.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\TimeHelper\\CommonHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\vsProject\\HandleSolution\\TimeHelper\\CommonHelper.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\TimeHelper\\CommonHelper.csproj",
         "projectName": "CommonHelper",
-        "projectPath": "E:\\vsProject\\HandleSolution\\TimeHelper\\CommonHelper.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\TimeHelper\\CommonHelper.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\vsProject\\HandleSolution\\TimeHelper\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\TimeHelper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\",

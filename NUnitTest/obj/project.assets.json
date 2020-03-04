@@ -5217,11 +5217,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\vsProject\\HandleSolution\\NUnitTest\\NUnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\NUnitTest\\NUnitTest.csproj",
       "projectName": "NUnitTest",
-      "projectPath": "E:\\vsProject\\HandleSolution\\NUnitTest\\NUnitTest.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\NUnitTest\\NUnitTest.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "E:\\vsProject\\HandleSolution\\NUnitTest\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\NUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\",

@@ -46,7 +46,7 @@ namespace HandleWeb
 
             //对接平台的处理
             var Credentials = Configuration.GetSection("Credentials").Get<CredentialsSetting>();
-            var ConnStrings = Configuration.GetSection("ConnectionString").Get<DbSetting>();
+            var ConnStrings = Configuration.GetSection("DataBaseUrl").Get<DbSetting>();
             LoginProvider.UseWeibo(Credentials.Weibo.client_id, Credentials.Weibo.client_secret);
             LoginProvider.UseQQ(Credentials.QQ.client_id, Credentials.QQ.client_secret);
             LoginProvider.UseFaceBook(Credentials.FaceBook.client_id, Credentials.FaceBook.client_secret);

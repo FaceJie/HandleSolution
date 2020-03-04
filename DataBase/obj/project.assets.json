@@ -2101,7 +2101,7 @@
       ]
     },
     "Newtonsoft.Json/11.0.2": {
-      "sha512": "IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "sha512": "yaHUydk5I7ZTGjxB6HtpG6ph6kes7N+6EiboGLXvU8veIXhJAqCENiQcK47NFypGbyYJxBM3WOWREW2XLJRjOQ==",
       "type": "package",
       "path": "newtonsoft.json/11.0.2",
       "files": [
@@ -3350,7 +3350,7 @@
       ]
     },
     "System.Memory/4.5.1": {
-      "sha512": "sDJYJpGtTgx+23Ayu5euxG5mAXWdkDb4+b0rD0Cab0M1oQS9H0HXGPriKcqpXuiJDTV7fTp/d+fMDJmnr6sNvA==",
+      "sha512": "+d3m2hy4SIT9GGt1MxHGqLB5VGKH1RWFoi7elwZwJshGRnzpRyFnOs8VmnLxhZ9SacMp5DA8+R6cuc4UrgsmGQ==",
       "type": "package",
       "path": "system.memory/4.5.1",
       "files": [
@@ -4977,11 +4977,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\vsProject\\HandleSolution\\DataBase\\DataBase.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\DataBase\\DataBase.csproj",
       "projectName": "DataBase",
-      "projectPath": "E:\\vsProject\\HandleSolution\\DataBase\\DataBase.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\DataBase\\DataBase.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "E:\\vsProject\\HandleSolution\\DataBase\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\DataBase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\",
