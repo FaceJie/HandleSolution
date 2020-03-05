@@ -38,6 +38,9 @@
           "Microsoft.EntityFrameworkCore.Tools": "3.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "3.1.2",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.0.0",
+          "NLog": "4.6.8",
+          "NLog.Extensions.Logging": "1.6.1",
+          "NLog.Web.AspNetCore": "4.9.0",
           "OAuthLogin": "1.0.0",
           "SharedHelper": "1.0.0",
           "Swashbuckle.AspNetCore.Filters": "5.0.2",
@@ -344,6 +347,20 @@
           "lib/netstandard1.3/Consul.dll": {}
         }
       },
+      "DnsClient/1.2.0": {
+        "dependencies": {
+          "System.Buffers": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/DnsClient.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/DnsClient.dll": {}
+        }
+      },
       "Dos.Common/2.91.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Http": "2.2.2",
@@ -570,6 +587,17 @@
         },
         "compile": {
           "lib/netstandard2.0/Hangfire.SqlServer.dll": {}
+        }
+      },
+      "JetBrains.Annotations/2019.1.3": {
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {
+            "assemblyVersion": "2019.1.3.0",
+            "fileVersion": "2019.1.3.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {}
         }
       },
       "JWT/5.3.1": {
@@ -1209,7 +1237,7 @@
           "Microsoft.DotNet.PlatformAbstractions": "2.1.0",
           "Newtonsoft.Json": "12.0.3",
           "System.Diagnostics.Debug": "4.3.0",
-          "System.Dynamic.Runtime": "4.0.11",
+          "System.Dynamic.Runtime": "4.3.0",
           "System.Linq": "4.3.0"
         },
         "runtime": {
@@ -1552,6 +1580,167 @@
           "lib/netstandard2.0/Newtonsoft.Json.Bson.dll": {}
         }
       },
+      "Nito.AsyncEx/5.0.0": {
+        "dependencies": {
+          "Nito.AsyncEx.Context": "5.0.0",
+          "Nito.AsyncEx.Coordination": "5.0.0",
+          "Nito.AsyncEx.Interop.WaitHandles": "5.0.0",
+          "Nito.AsyncEx.Oop": "5.0.0",
+          "Nito.AsyncEx.Tasks": "5.0.0",
+          "Nito.Cancellation": "1.0.5"
+        }
+      },
+      "Nito.AsyncEx.Context/5.0.0": {
+        "dependencies": {
+          "Nito.AsyncEx.Tasks": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Nito.AsyncEx.Context.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Nito.AsyncEx.Context.dll": {}
+        }
+      },
+      "Nito.AsyncEx.Coordination/5.0.0": {
+        "dependencies": {
+          "Nito.AsyncEx.Tasks": "5.0.0",
+          "Nito.Collections.Deque": "1.0.4",
+          "Nito.Disposables": "2.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Nito.AsyncEx.Coordination.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Nito.AsyncEx.Coordination.dll": {}
+        }
+      },
+      "Nito.AsyncEx.Interop.WaitHandles/5.0.0": {
+        "dependencies": {
+          "Nito.AsyncEx.Tasks": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Nito.AsyncEx.Interop.WaitHandles.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Nito.AsyncEx.Interop.WaitHandles.dll": {}
+        }
+      },
+      "Nito.AsyncEx.Oop/5.0.0": {
+        "dependencies": {
+          "Nito.AsyncEx.Coordination": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Nito.AsyncEx.Oop.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Nito.AsyncEx.Oop.dll": {}
+        }
+      },
+      "Nito.AsyncEx.Tasks/5.0.0": {
+        "dependencies": {
+          "Nito.Disposables": "2.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Nito.AsyncEx.Tasks.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Nito.AsyncEx.Tasks.dll": {}
+        }
+      },
+      "Nito.Cancellation/1.0.5": {
+        "dependencies": {
+          "Nito.Disposables": "2.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Nito.Cancellation.dll": {
+            "assemblyVersion": "1.0.5.0",
+            "fileVersion": "1.0.5.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Nito.Cancellation.dll": {}
+        }
+      },
+      "Nito.Collections.Deque/1.0.4": {
+        "runtime": {
+          "lib/netstandard2.0/Nito.Collections.Deque.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Nito.Collections.Deque.dll": {}
+        }
+      },
+      "Nito.Disposables/2.0.0": {
+        "dependencies": {
+          "System.Collections.Immutable": "1.6.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Nito.Disposables.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Nito.Disposables.dll": {}
+        }
+      },
+      "NLog/4.6.8": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.8.10751"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/NLog.dll": {}
+        }
+      },
+      "NLog.Extensions.Logging/1.6.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging": "3.1.2",
+          "NLog": "4.6.8"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/NLog.Extensions.Logging.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.6.1.1203"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.0/NLog.Extensions.Logging.dll": {}
+        }
+      },
+      "NLog.Web.AspNetCore/4.9.0": {
+        "dependencies": {
+          "NLog.Extensions.Logging": "1.6.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/NLog.Web.AspNetCore.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.9.0.1511"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.0/NLog.Web.AspNetCore.dll": {}
+        }
+      },
       "NuGet.Frameworks/4.7.0": {
         "dependencies": {
           "NETStandard.Library": "1.6.1"
@@ -1579,6 +1768,23 @@
         },
         "compile": {
           "lib/netcoreapp2.1/Pipelines.Sockets.Unofficial.dll": {}
+        }
+      },
+      "Rebus/6.0.1": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.6.0",
+          "Newtonsoft.Json": "12.0.3",
+          "System.Dynamic.Runtime": "4.3.0",
+          "System.Reflection.Emit.Lightweight": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Rebus.dll": {
+            "assemblyVersion": "6.0.1.0",
+            "fileVersion": "6.0.1.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.1/Rebus.dll": {}
         }
       },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {},
@@ -2131,11 +2337,10 @@
           "ref/netstandard2.0/System.Drawing.Common.dll": {}
         }
       },
-      "System.Dynamic.Runtime/4.0.11": {
+      "System.Dynamic.Runtime/4.3.0": {
         "dependencies": {
           "System.Collections": "4.3.0",
           "System.Diagnostics.Debug": "4.3.0",
-          "System.Globalization": "4.3.0",
           "System.Linq": "4.3.0",
           "System.Linq.Expressions": "4.3.0",
           "System.ObjectModel": "4.3.0",
@@ -2885,9 +3090,11 @@
       },
       "CommonHelper/1.0.0": {
         "dependencies": {
+          "DnsClient": "1.2.0",
           "JWT": "5.3.1",
           "Microsoft.AspNetCore.Hosting.Abstractions": "2.2.0",
-          "Microsoft.AspNetCore.Http": "2.2.2"
+          "Microsoft.AspNetCore.Http": "2.2.2",
+          "SharedHelper": "1.0.0"
         },
         "runtime": {
           "CommonHelper.dll": {}
@@ -2941,9 +3148,12 @@
       },
       "SharedHelper/1.0.0": {
         "dependencies": {
+          "JetBrains.Annotations": "2019.1.3",
           "Microsoft.AspNetCore.Http": "2.2.2",
           "Microsoft.Extensions.Logging": "3.1.2",
-          "Newtonsoft.Json": "12.0.3"
+          "Newtonsoft.Json": "12.0.3",
+          "Nito.AsyncEx": "5.0.0",
+          "Rebus": "6.0.1"
         },
         "runtime": {
           "SharedHelper.dll": {}
@@ -4593,6 +4803,13 @@
       "path": "consul/0.7.2.6",
       "hashPath": "consul.0.7.2.6.nupkg.sha512"
     },
+    "DnsClient/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P34wUkeqU4FoQiOMV8OjpdeDZKs4d3r+VlHuKJ6eO5feiZgna3+9MF5orHRUn3DAv1g/HPE5hlkGucmxmsFfBw==",
+      "path": "dnsclient/1.2.0",
+      "hashPath": "dnsclient.1.2.0.nupkg.sha512"
+    },
     "Dos.Common/2.91.0": {
       "type": "package",
       "serviceable": true,
@@ -4683,6 +4900,13 @@
       "sha512": "sha512-wqpAe5WhzDjXGM4cOUbENazkiBogn8mc5Dpk9Qp1tnngqW5XW2iETP1tE5pUpa2Q870TxOCrnurvQNRCAvMuvA==",
       "path": "hangfire.sqlserver/1.7.9",
       "hashPath": "hangfire.sqlserver.1.7.9.nupkg.sha512"
+    },
+    "JetBrains.Annotations/2019.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E0x48BwZJKoNMNCekWGKsV4saQS89lf58ydT2szseV44CMYIbaHXjc7+305WLw6up3ibZN9yH6QdGSZo5tQhLg==",
+      "path": "jetbrains.annotations/2019.1.3",
+      "hashPath": "jetbrains.annotations.2019.1.3.nupkg.sha512"
     },
     "JWT/5.3.1": {
       "type": "package",
@@ -5181,6 +5405,90 @@
       "path": "newtonsoft.json.bson/1.0.2",
       "hashPath": "newtonsoft.json.bson.1.0.2.nupkg.sha512"
     },
+    "Nito.AsyncEx/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EgeMl8BoaLg6mOXs7MVjl3uqUqZlL0uYti2/G128EA60U9UqoYlF0AMtGOA1/EP+bvrjcvixK8D3MLpwr2dnSw==",
+      "path": "nito.asyncex/5.0.0",
+      "hashPath": "nito.asyncex.5.0.0.nupkg.sha512"
+    },
+    "Nito.AsyncEx.Context/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Qnth1Ye+QSLg8P3fSFYzk7ue6oUUHQcKpLitgAig8xRFqTK5W1KTlfxF/Z8Eo0BuqZ17a5fAGtXrdKJsLqivZw==",
+      "path": "nito.asyncex.context/5.0.0",
+      "hashPath": "nito.asyncex.context.5.0.0.nupkg.sha512"
+    },
+    "Nito.AsyncEx.Coordination/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kjauyO8UMo/FGZO/M8TdjXB8ZlBPFOiRN8yakThaGQbYOywazQ0kGZ39SNr2gNNzsTxbZOUudBMYNo+IrtscbA==",
+      "path": "nito.asyncex.coordination/5.0.0",
+      "hashPath": "nito.asyncex.coordination.5.0.0.nupkg.sha512"
+    },
+    "Nito.AsyncEx.Interop.WaitHandles/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-roX7jQ7AAEw3CUq/oRj/ACcN1XtfO6fSbYSAjMtjvacN9pqY7Uq2reBFaosbMaMt16EcW+Xw3PwczKzHdZFPRA==",
+      "path": "nito.asyncex.interop.waithandles/5.0.0",
+      "hashPath": "nito.asyncex.interop.waithandles.5.0.0.nupkg.sha512"
+    },
+    "Nito.AsyncEx.Oop/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SKyHsxzXD8b69tPPgMDh7mgMx7GdaSfJ1h2eNS+z2Z/vHsutXTl1sYLOO30fiIkv1umvI1g8GySvYLpVlpt6yA==",
+      "path": "nito.asyncex.oop/5.0.0",
+      "hashPath": "nito.asyncex.oop.5.0.0.nupkg.sha512"
+    },
+    "Nito.AsyncEx.Tasks/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZtvotignafOLteP4oEjVcF3k2L8h73QUCaFpVKWbU+EOlW/I+JGkpMoXIl0rlwPcDmR84RxzggLRUNMaWlOosA==",
+      "path": "nito.asyncex.tasks/5.0.0",
+      "hashPath": "nito.asyncex.tasks.5.0.0.nupkg.sha512"
+    },
+    "Nito.Cancellation/1.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/MehN8HvuOgPZsNmqyu0UdPWXCAJVqcy0LEqw1Ch1++ag1h0qPt5YLH+BCIMFDC5UMW/4RzJW2GdRDYg7Vi2yA==",
+      "path": "nito.cancellation/1.0.5",
+      "hashPath": "nito.cancellation.1.0.5.nupkg.sha512"
+    },
+    "Nito.Collections.Deque/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yGDKqCQ61i97MyfEUYG6+ln5vxpx11uA5M9+VV9B7stticbFm19YMI/G9w4AFYVBj5PbPi138P8IovkMFAL0Aw==",
+      "path": "nito.collections.deque/1.0.4",
+      "hashPath": "nito.collections.deque.1.0.4.nupkg.sha512"
+    },
+    "Nito.Disposables/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ExJl/jTjegSLHGcwnmaYaI5xIlrefAsVdeLft7VLtXI2+W5irihiu36LizWvlaUpzY1/llo+YSh09uSHMu2VFw==",
+      "path": "nito.disposables/2.0.0",
+      "hashPath": "nito.disposables.2.0.0.nupkg.sha512"
+    },
+    "NLog/4.6.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LKB0uN5naOTxdNz++iapk6arNYv2asE8FPRBAmQZ1fe8y8C1Zm6sldh/w9TP/w5s7FGK8s0x6ny0og5ytFK1oQ==",
+      "path": "nlog/4.6.8",
+      "hashPath": "nlog.4.6.8.nupkg.sha512"
+    },
+    "NLog.Extensions.Logging/1.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Fm5tqHYUpGMe/SbgmH/+Kl/WHFL6BTAZVWy/5yycatmFAuqf22FBD4Nkohe8PZ8jUKPYRcUu17BB+0Tku/QK6w==",
+      "path": "nlog.extensions.logging/1.6.1",
+      "hashPath": "nlog.extensions.logging.1.6.1.nupkg.sha512"
+    },
+    "NLog.Web.AspNetCore/4.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lEA+6Xm/DbU+Z6qVbJP1fgP4MvE0amlwXlJj3MyarcassZ/yuIAQIJsiLoJ/NMDFu1Jfh139L8F4mQpB/r5q/g==",
+      "path": "nlog.web.aspnetcore/4.9.0",
+      "hashPath": "nlog.web.aspnetcore.4.9.0.nupkg.sha512"
+    },
     "NuGet.Frameworks/4.7.0": {
       "type": "package",
       "serviceable": true,
@@ -5194,6 +5502,13 @@
       "sha512": "sha512-n+YKaKVd9ZSa7uVeT0gyOT8eoeCWbiTdpVtnHkjthqmNopVPc4+efRQUReO+WH3WFyVKxgn5QS4BLi2Q+sioqA==",
       "path": "pipelines.sockets.unofficial/1.0.7",
       "hashPath": "pipelines.sockets.unofficial.1.0.7.nupkg.sha512"
+    },
+    "Rebus/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/BNygBfJsvguQvZrJRSs1lIxmcsithn//IDeZq0jYLYRwxO1+GquEF2WEUrCnC/nT/IsfeaupRf3vLRZkiGueA==",
+      "path": "rebus/6.0.1",
+      "hashPath": "rebus.6.0.1.nupkg.sha512"
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {
       "type": "package",
@@ -5587,12 +5902,12 @@
       "path": "system.drawing.common/4.5.0",
       "hashPath": "system.drawing.common.4.5.0.nupkg.sha512"
     },
-    "System.Dynamic.Runtime/4.0.11": {
+    "System.Dynamic.Runtime/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-db34f6LHYM0U0JpE+sOmjar27BnqTVkbLJhgfwMpTdgTigG/Hna3m2MYVwnFzGGKnEJk2UXFuoVTr8WUbU91/A==",
-      "path": "system.dynamic.runtime/4.0.11",
-      "hashPath": "system.dynamic.runtime.4.0.11.nupkg.sha512"
+      "sha512": "sha512-SNVi1E/vfWUAs/WYKhE9+qlS6KqK0YVhnlT0HQtr8pMIA8YX3lwy3uPMownDwdYISBdmAF/2holEIldVp85Wag==",
+      "path": "system.dynamic.runtime/4.3.0",
+      "hashPath": "system.dynamic.runtime.4.3.0.nupkg.sha512"
     },
     "System.Globalization/4.3.0": {
       "type": "package",

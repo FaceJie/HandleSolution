@@ -29,6 +29,9 @@
     </PackageReference>
     <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="3.1.2" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.0.0" />
+    <PackageReference Include="NLog" Version="4.6.8" />
+    <PackageReference Include="NLog.Extensions.Logging" Version="1.6.1" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.9.0" />
     <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="5.0.2" />
   </ItemGroup>
 
@@ -36,6 +39,10 @@
     <Folder Include="Areas\OAuth\Data\" />
     <Folder Include="Areas\OAuth\Models\" />
     <Folder Include="WebHelper\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="NLog.config" />
   </ItemGroup>
 
   <ItemGroup>

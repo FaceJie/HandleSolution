@@ -14,6 +14,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using NLog.Extensions.Logging;
 using OAuthLogin;
 
 namespace HandleWeb
@@ -63,7 +64,8 @@ namespace HandleWeb
          */
         #endregion
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerFactory loggerfactory)
+        [Obsolete]
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerFactory loggerFactory)
         {
             if (env.IsDevelopment())
             {
@@ -104,8 +106,8 @@ namespace HandleWeb
             app.UseAuthorization();
             #endregion
 
-            // Log4Net
-            //loggerfactory.ConfigureLog4Net();
+            //添加NLog
+            loggerFactory.AddNLog();
 
             //CORE标准库3.0的路由
             app.UseEndpoints(endpoints =>
