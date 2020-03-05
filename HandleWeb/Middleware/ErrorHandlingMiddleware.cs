@@ -44,32 +44,32 @@ namespace HandleWeb.Middleware
 
             switch (exception)
             {
-                case UnauthorizedException _: // 401
+                case UnauthorizedException _: // 401 未授权的
                     var unauthorizedException = (UnauthorizedException)exception;
                     errorCode = 401;
                     errorResponse = new ErrorResponse(nameof(Message.NotAuthenticated), errorCode, unauthorizedException.Message);
                     break;
-                case ForbiddenException _:    // 403
+                case ForbiddenException _:    // 403 禁止访问
                     var forbiddenException = (ForbiddenException)exception;
                     errorCode = 401;
                     errorResponse = new ErrorResponse(nameof(Message.PermissionRequired), errorCode, forbiddenException.Message);
                     break;
-                case NotFoundException _:     // 404
+                case NotFoundException _:     // 404 未找到
                     var notFoundException = (NotFoundException)exception;
                     errorCode = 404;
                     errorResponse = new ErrorResponse(nameof(Message.NotFound), errorCode, notFoundException.Message);
                     break;
-                case ConflictException _:     // 409
+                case ConflictException _:     // 409 冲突
                     var conflictException = (ConflictException)exception;
                     errorCode = 409;
                     errorResponse = new ErrorResponse(nameof(Message.Conflict), errorCode, conflictException.Message);
                     break;
-                case ValidationException _:    // 422
+                case ValidationException _:    // 422 验证异常
                     var validationException = (ValidationException)exception;
                     errorCode = 422;
                     errorResponse = new ErrorResponse(nameof(Message.ValidationFailed), errorCode, validationException.Message);
                     break;
-                default:                      // 500
+                default:                      // 500 内部错误
                     errorCode = 500;
                     errorResponse = new ErrorResponse(nameof(Message.InternalServerError), errorCode, Message.InternalServerError);
                     //日志输出

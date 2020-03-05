@@ -331,6 +331,18 @@
               "target": "Package",
               "version": "[3.0.0, )"
             },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.6.8, )"
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
             "Swashbuckle.AspNetCore.Filters": {
               "target": "Package",
               "version": "[5.0.2, )"
