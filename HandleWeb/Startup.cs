@@ -13,6 +13,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Logging;
 using OAuthLogin;
 
 namespace HandleWeb
@@ -24,13 +25,6 @@ namespace HandleWeb
             Configuration = configuration;
         }
         public IConfiguration Configuration { get; }
-        public void ConfigureServices(IServiceCollection services)
-        {
-
-            services.AddControllersWithViews();
-            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-        }
-
 
 
         #region 中间件的配置 配置顺序
@@ -46,8 +40,30 @@ namespace HandleWeb
             MVC
          */
         #endregion
+        public void ConfigureServices(IServiceCollection services)
+        {
+
+            services.AddControllersWithViews();
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+        }
+
+
+
+        #region 中间件的注入 注入顺序
+        /*
+         *  一般的应用中的 Startup.Configure 方法添加中间组件的顺序：
+            Exception/error handling
+            HTTP Strict Transport Security Protocol
+            HTTPS redirection
+            Static file server
+            Cookie policy enforcement
+            Authentication
+            Session
+            MVC
+         */
+        #endregion
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerFactory loggerfactory)
         {
             if (env.IsDevelopment())
             {
@@ -87,6 +103,9 @@ namespace HandleWeb
             app.UseRouting();
             app.UseAuthorization();
             #endregion
+
+            // Log4Net
+            //loggerfactory.ConfigureLog4Net();
 
             //CORE标准库3.0的路由
             app.UseEndpoints(endpoints =>

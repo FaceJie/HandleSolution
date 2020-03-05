@@ -10,4 +10,9 @@
     <PackageReference Include="Dos.ORM.NoSql" Version="2.6.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ApplicationHelper\ApplicationHelper.csproj" />
+    <ProjectReference Include="..\SharedHelper\SharedHelper.csproj" />
+  </ItemGroup>
+
 </Project>

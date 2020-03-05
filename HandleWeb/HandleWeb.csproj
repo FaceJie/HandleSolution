@@ -5,10 +5,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Configuration\Log4NetConfig.cs" />
     <Compile Remove="GlobalSuppressions.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <Content Remove="log4net.config" />
+    <Content Remove="log4net.release.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Consul" Version="0.7.2.6" />
     <PackageReference Include="ElmahCore" Version="1.2.5" />
     <PackageReference Include="FluentValidation.AspNetCore" Version="8.6.2" />
     <PackageReference Include="Hangfire.AspNetCore" Version="1.7.9" />
@@ -28,7 +35,6 @@
   <ItemGroup>
     <Folder Include="Areas\OAuth\Data\" />
     <Folder Include="Areas\OAuth\Models\" />
-    <Folder Include="Validation\" />
     <Folder Include="WebHelper\" />
   </ItemGroup>
 

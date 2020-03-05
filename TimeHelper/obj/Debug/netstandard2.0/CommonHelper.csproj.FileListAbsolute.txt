@@ -13,3 +13,7 @@ C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\TimeHelper\ob
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.AssemblyInfo.cs
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.dll
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.pdb
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\TimeHelper\bin\Debug\netstandard2.0\SharedHelper.dll
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\TimeHelper\bin\Debug\netstandard2.0\SharedHelper.pdb
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.csproj.CopyComplete

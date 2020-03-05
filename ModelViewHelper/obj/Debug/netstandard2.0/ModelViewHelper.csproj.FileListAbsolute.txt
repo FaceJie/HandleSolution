@@ -5,3 +5,4 @@ C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ModelViewHelp
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ModelViewHelper\obj\Debug\netstandard2.0\ModelViewHelper.AssemblyInfo.cs
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ModelViewHelper\obj\Debug\netstandard2.0\ModelViewHelper.dll
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ModelViewHelper\obj\Debug\netstandard2.0\ModelViewHelper.pdb
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ModelViewHelper\obj\Debug\netstandard2.0\ModelViewHelper.csprojAssemblyReference.cache

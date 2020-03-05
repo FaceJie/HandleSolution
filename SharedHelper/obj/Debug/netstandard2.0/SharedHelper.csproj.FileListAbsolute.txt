@@ -5,3 +5,4 @@ C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\SharedHelper\
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\SharedHelper\obj\Debug\netstandard2.0\SharedHelper.AssemblyInfo.cs
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\SharedHelper\obj\Debug\netstandard2.0\SharedHelper.dll
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\SharedHelper\obj\Debug\netstandard2.0\SharedHelper.pdb
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\SharedHelper\obj\Debug\netstandard2.0\SharedHelper.csprojAssemblyReference.cache

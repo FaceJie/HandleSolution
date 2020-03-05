@@ -8,3 +8,13 @@ C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\obj\
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\obj\Debug\netstandard2.0\DataBase.AssemblyInfo.cs
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\obj\Debug\netstandard2.0\DataBase.dll
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\obj\Debug\netstandard2.0\DataBase.pdb
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.0\ApplicationHelper.dll
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.0\EnmuHelper.dll
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.0\ModelViewHelper.dll
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.0\SharedHelper.dll
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.0\ApplicationHelper.pdb
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.0\SharedHelper.pdb
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.0\EnmuHelper.pdb
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.0\ModelViewHelper.pdb
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\obj\Debug\netstandard2.0\DataBase.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\DataBase\obj\Debug\netstandard2.0\DataBase.csproj.CopyComplete
