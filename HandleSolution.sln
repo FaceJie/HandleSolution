@@ -21,13 +21,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "测试层", "测试层", "{
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataBase", "DataBase\DataBase.csproj", "{4FCD13E8-7B30-4980-91A7-4E4C5081C48A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationHelper", "ApplicationHelper\ApplicationHelper.csproj", "{11CF245B-55A3-4E35-BA73-04EF883E15F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationHelper", "ApplicationHelper\ApplicationHelper.csproj", "{11CF245B-55A3-4E35-BA73-04EF883E15F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedHelper", "SharedHelper\SharedHelper.csproj", "{2C968C4E-D3BE-42C4-80B1-E3458C4C940D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedHelper", "SharedHelper\SharedHelper.csproj", "{2C968C4E-D3BE-42C4-80B1-E3458C4C940D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnmuHelper", "EnmuHelper\EnmuHelper.csproj", "{38C4CC05-B4BC-490D-A023-30F7DF7785B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnmuHelper", "EnmuHelper\EnmuHelper.csproj", "{38C4CC05-B4BC-490D-A023-30F7DF7785B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelViewHelper", "ModelViewHelper\ModelViewHelper.csproj", "{7184A4C5-D92A-431F-BDED-BC46CCBC59A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelViewHelper", "ModelViewHelper\ModelViewHelper.csproj", "{7184A4C5-D92A-431F-BDED-BC46CCBC59A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

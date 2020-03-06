@@ -1,0 +1,12 @@
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\bin\Debug\netcoreapp2.2\NUnitTest.deps.json
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\bin\Debug\netcoreapp2.2\NUnitTest.dll
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\bin\Debug\netcoreapp2.2\NUnitTest.pdb
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.csprojAssemblyReference.cache
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.AssemblyInfoInputs.cache
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.AssemblyInfo.cs
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.dll
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.pdb
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.csproj.CoreCompileInputs.cache

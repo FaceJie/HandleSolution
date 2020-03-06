@@ -11,3 +11,16 @@ C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ApplicationHe
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ApplicationHelper\obj\Debug\netstandard2.0\ApplicationHelper.csproj.CopyComplete
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ApplicationHelper\obj\Debug\netstandard2.0\ApplicationHelper.dll
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\ApplicationHelper\obj\Debug\netstandard2.0\ApplicationHelper.pdb
+E:\微服务\HandleSolution\HandleSolution\ApplicationHelper\bin\Debug\netstandard2.0\ApplicationHelper.deps.json
+E:\微服务\HandleSolution\HandleSolution\ApplicationHelper\bin\Debug\netstandard2.0\ApplicationHelper.dll
+E:\微服务\HandleSolution\HandleSolution\ApplicationHelper\bin\Debug\netstandard2.0\ApplicationHelper.pdb
+E:\微服务\HandleSolution\HandleSolution\ApplicationHelper\bin\Debug\netstandard2.0\EnmuHelper.dll
+E:\微服务\HandleSolution\HandleSolution\ApplicationHelper\bin\Debug\netstandard2.0\ModelViewHelper.dll
+E:\微服务\HandleSolution\HandleSolution\ApplicationHelper\bin\Debug\netstandard2.0\EnmuHelper.pdb
+E:\微服务\HandleSolution\HandleSolution\ApplicationHelper\bin\Debug\netstandard2.0\ModelViewHelper.pdb
+E:\微服务\HandleSolution\HandleSolution\ApplicationHelper\obj\Debug\netstandard2.0\ApplicationHelper.csprojAssemblyReference.cache
+E:\微服务\HandleSolution\HandleSolution\ApplicationHelper\obj\Debug\netstandard2.0\ApplicationHelper.AssemblyInfoInputs.cache
+E:\微服务\HandleSolution\HandleSolution\ApplicationHelper\obj\Debug\netstandard2.0\ApplicationHelper.AssemblyInfo.cs
+E:\微服务\HandleSolution\HandleSolution\ApplicationHelper\obj\Debug\netstandard2.0\ApplicationHelper.csproj.CopyComplete
+E:\微服务\HandleSolution\HandleSolution\ApplicationHelper\obj\Debug\netstandard2.0\ApplicationHelper.dll
+E:\微服务\HandleSolution\HandleSolution\ApplicationHelper\obj\Debug\netstandard2.0\ApplicationHelper.pdb

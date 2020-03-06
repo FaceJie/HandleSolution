@@ -1262,7 +1262,7 @@
       ]
     },
     "Microsoft.AspNetCore.Hosting.Abstractions/2.2.0": {
-      "sha512": "ubycklv+ZY7Kutdwuy1W4upWcZ6VFR8WUXU7l7B2+mvbDBBPAcfpi+E+Y5GFe+Q157YfA3C49D2GCjAZc7Mobw==",
+      "sha512": "Ga2GIJgzpvZIE1XM6RPK8A9w6UfKkc4Uk747g9EQzZKJgs59WOfIsfyz2VMLiG8G4M4+MGlfM53P8qA00GMGFA==",
       "type": "package",
       "path": "microsoft.aspnetcore.hosting.abstractions/2.2.0",
       "files": [
@@ -1275,7 +1275,7 @@
       ]
     },
     "Microsoft.AspNetCore.Hosting.Server.Abstractions/2.2.0": {
-      "sha512": "1PMijw8RMtuQF60SsD/JlKtVfvh4NORAhF4wjysdABhlhTrYmtgssqyncR0Stq5vqtjplZcj6kbT4LRTglt9IQ==",
+      "sha512": "+z82k/c0d6HxvfEON9eoQfcSOF8GAlyySSkEwczdz+JjWSz/sVD0YFNrpU2htmTytVo5DQTQKRhzZPHEeWW+YQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.hosting.server.abstractions/2.2.0",
       "files": [
@@ -1301,7 +1301,7 @@
       ]
     },
     "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
-      "sha512": "Nxs7Z1q3f1STfLYKJSVXCs1iBl+Ya6E8o4Oy1bCxJ/rNI44E/0f6tbsrVqAWfB7jlnJfyaAtIalBVxPKUPQb4Q==",
+      "sha512": "9XOhcBY79G6wwOrC+eJ2wk0lxeXja/A9gJ77FFxaLWY33sCcaczJLvZuqbKksubOfO4jwvN2rTrg9EAbbT8e4w==",
       "type": "package",
       "path": "microsoft.aspnetcore.http.abstractions/2.2.0",
       "files": [
@@ -1314,7 +1314,7 @@
       ]
     },
     "Microsoft.AspNetCore.Http.Features/2.2.0": {
-      "sha512": "ziFz5zH8f33En4dX81LW84I6XrYXKf9jg6aM39cM+LffN9KJahViKZ61dGMSO2gd3e+qe5yBRwsesvyqlZaSMg==",
+      "sha512": "XXG6S1bdDMu0EmmxY8EluG4oEs/UIcrBzNlShgFfmWWeabFDxnakK4rJ2ge+nIyeSZ8d/zQo40+KdZzBBc7UrQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.http.features/2.2.0",
       "files": [
@@ -1327,7 +1327,7 @@
       ]
     },
     "Microsoft.AspNetCore.WebUtilities/2.2.0": {
-      "sha512": "9ErxAAKaDzxXASB/b5uLEkLgUWv1QbeVxyJYEHQwMaxXOeFFVkQxiq8RyfVcifLU7NR0QY0p3acqx4ZpYfhHDg==",
+      "sha512": "leVR8TB9wBmFIsqBiOG6RqwPgCSYpDhQCMV7kL7W72iwBAw61ryxOlsjlG41AeWOg6AhEtMZ1pZRavz849iaKA==",
       "type": "package",
       "path": "microsoft.aspnetcore.webutilities/2.2.0",
       "files": [
@@ -1364,7 +1364,7 @@
       ]
     },
     "Microsoft.CSharp/4.5.0": {
-      "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
+      "sha512": "n+l/FSya7lYz8hM79IiPepj0xJ//x3cHLXUS9RSwHO/fC/g1I7x8Li6/BUW85GkxHNRv/nRefl+G/m4i7/oXtg==",
       "type": "package",
       "path": "microsoft.csharp/4.5.0",
       "files": [
@@ -1514,7 +1514,7 @@
       ]
     },
     "Microsoft.Extensions.FileProviders.Abstractions/2.2.0": {
-      "sha512": "EcnaSsPTqx2MGnHrmWOD0ugbuuqVT8iICqSqPzi45V5/MA1LjUNb0kwgcxBGqizV1R+WeBK7/Gw25Jzkyk9bIw==",
+      "sha512": "7tRbl9pptBymYXAcBweNsEzwV7atSXG89k1JBHQwVZtinl3UgBSUerX22WSM1zH/UmYEIgeWdSNeePEqBa3I6w==",
       "type": "package",
       "path": "microsoft.extensions.fileproviders.abstractions/2.2.0",
       "files": [
@@ -1527,7 +1527,7 @@
       ]
     },
     "Microsoft.Extensions.Hosting.Abstractions/2.2.0": {
-      "sha512": "+k4AEn68HOJat5gj1TWa6X28WlirNQO9sPIIeQbia+91n03esEtMSSoekSTpMjUzjqtJWQN3McVx0GvSPFHF/Q==",
+      "sha512": "Pah9/PYeF2WaekVrcioeKWBO7FJZ1r3lc96OQB23UxFj94vAa8Hkf6UOq3a4YhqG5w2F/YuQFG0ZD8q4E2ocnw==",
       "type": "package",
       "path": "microsoft.extensions.hosting.abstractions/2.2.0",
       "files": [
@@ -1570,7 +1570,7 @@
       ]
     },
     "Microsoft.Extensions.ObjectPool/2.2.0": {
-      "sha512": "gA8H7uQOnM5gb+L0uTNjViHYr+hRDqCdfugheGo/MxQnuHzmhhzCBTIPm19qL1z1Xe0NEMabfcOBGv9QghlZ8g==",
+      "sha512": "W7ATE0BgLeMLAJzwvVHb2xz4XRPq73q7UyZDnN/bPtQHDKibRFSHEOCmOO8+tE11xwhqvhOIfSSM5qb7zFajbw==",
       "type": "package",
       "path": "microsoft.extensions.objectpool/2.2.0",
       "files": [
@@ -1615,7 +1615,7 @@
       ]
     },
     "Microsoft.Net.Http.Headers/2.2.0": {
-      "sha512": "iZNkjYqlo8sIOI0bQfpsSoMTmB/kyvmV2h225ihyZT33aTp48ZpF6qYnXxzSXmHt8DpBAwBTX+1s1UFLbYfZKg==",
+      "sha512": "5aBAf7Yjm6zH6mWrSfPrKEDDpE/zqll+UzcIfajApyMDPphSKw0fHnM7wNdJmVAcHyQD7FrPHsDViGcF7fQZNg==",
       "type": "package",
       "path": "microsoft.net.http.headers/2.2.0",
       "files": [
@@ -1656,7 +1656,7 @@
       ]
     },
     "NETStandard.Library/2.0.3": {
-      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "sha512": "yRjsFvWY2YRhdBYU7R10XfBOvwSTkfqTdu+UNL28C9qQ9WHE77hZEnxV6XVUUqS6RlS7Xzko1SONVjtHcPeFow==",
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
@@ -2140,7 +2140,7 @@
       ]
     },
     "System.Buffers/4.5.0": {
-      "sha512": "pL2ChpaRRWI/p4LXyy4RgeWlYF2sgfj/pnVMvBqwNFr5cXg7CXNnWZWxrOONLg8VGdFB8oB+EG2Qw4MLgTOe+A==",
+      "sha512": "AtTN/x6bic52ZEE3RCMUczO5PHFVY1UxZgnd7C3BekDObfStfm5BR0dVOPm9zex0nwIWw+bUmsE4YjoUbA0IsA==",
       "type": "package",
       "path": "system.buffers/4.5.0",
       "files": [
@@ -4194,7 +4194,7 @@
       ]
     },
     "System.Text.Encodings.Web/4.5.0": {
-      "sha512": "Xg4G4Indi4dqP1iuAiMSwpiWS54ZghzR644OtsRCm/m/lBMG8dUBhLVN7hLm8NNrNTR+iGbshCPTwrvxZPlm4g==",
+      "sha512": "FvtQNv7EbSZ7nZqP88VpEgKBfPnn7ozokhg0Fip51nm1BLX7Rj4tPyfXplo+OGMb0Eb3K2kXqHdH/utF+2X21Q==",
       "type": "package",
       "path": "system.text.encodings.web/4.5.0",
       "files": [
@@ -4402,21 +4402,19 @@
   },
   "packageFolders": {
     "C:\\Users\\Lenovo\\.nuget\\packages\\": {},
-    "D:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "D:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\TimeHelper\\CommonHelper.csproj",
+      "projectUniqueName": "E:\\微服务\\HandleSolution\\HandleSolution\\TimeHelper\\CommonHelper.csproj",
       "projectName": "CommonHelper",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\TimeHelper\\CommonHelper.csproj",
+      "projectPath": "E:\\微服务\\HandleSolution\\HandleSolution\\TimeHelper\\CommonHelper.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\TimeHelper\\obj\\",
+      "outputPath": "E:\\微服务\\HandleSolution\\HandleSolution\\TimeHelper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "D:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4434,8 +4432,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\SharedHelper\\SharedHelper.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\FaceJie\\HandleSolution\\HandleSolution\\SharedHelper\\SharedHelper.csproj"
+            "E:\\微服务\\HandleSolution\\HandleSolution\\SharedHelper\\SharedHelper.csproj": {
+              "projectPath": "E:\\微服务\\HandleSolution\\HandleSolution\\SharedHelper\\SharedHelper.csproj"
             }
           }
         }
@@ -4482,7 +4480,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

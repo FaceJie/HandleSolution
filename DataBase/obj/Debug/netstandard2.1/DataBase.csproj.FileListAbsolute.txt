@@ -1,0 +1,17 @@
+E:\微服务\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.1\DataBase.deps.json
+E:\微服务\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.1\DataBase.dll
+E:\微服务\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.1\DataBase.pdb
+E:\微服务\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.1\ApplicationHelper.dll
+E:\微服务\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.1\EnmuHelper.dll
+E:\微服务\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.1\ModelViewHelper.dll
+E:\微服务\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.1\SharedHelper.dll
+E:\微服务\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.1\ApplicationHelper.pdb
+E:\微服务\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.1\SharedHelper.pdb
+E:\微服务\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.1\EnmuHelper.pdb
+E:\微服务\HandleSolution\HandleSolution\DataBase\bin\Debug\netstandard2.1\ModelViewHelper.pdb
+E:\微服务\HandleSolution\HandleSolution\DataBase\obj\Debug\netstandard2.1\DataBase.csprojAssemblyReference.cache
+E:\微服务\HandleSolution\HandleSolution\DataBase\obj\Debug\netstandard2.1\DataBase.AssemblyInfoInputs.cache
+E:\微服务\HandleSolution\HandleSolution\DataBase\obj\Debug\netstandard2.1\DataBase.AssemblyInfo.cs
+E:\微服务\HandleSolution\HandleSolution\DataBase\obj\Debug\netstandard2.1\DataBase.csproj.CopyComplete
+E:\微服务\HandleSolution\HandleSolution\DataBase\obj\Debug\netstandard2.1\DataBase.dll
+E:\微服务\HandleSolution\HandleSolution\DataBase\obj\Debug\netstandard2.1\DataBase.pdb

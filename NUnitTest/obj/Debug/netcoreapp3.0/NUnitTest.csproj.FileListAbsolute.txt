@@ -181,3 +181,14 @@ C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\NUnitTest\obj
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\NUnitTest\obj\Debug\netcoreapp3.0\NUnitTest.dll
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\NUnitTest\obj\Debug\netcoreapp3.0\NUnitTest.pdb
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\NUnitTest\obj\Debug\netcoreapp3.0\NUnitTest.csprojAssemblyReference.cache
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.pdb
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\bin\Debug\netcoreapp3.0\nunit.engine.netstandard.dll
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\bin\Debug\netcoreapp3.0\NUnitTest.deps.json
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\bin\Debug\netcoreapp3.0\NUnitTest.dll
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\bin\Debug\netcoreapp3.0\NUnitTest.pdb
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\obj\Debug\netcoreapp3.0\NUnitTest.csprojAssemblyReference.cache
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\obj\Debug\netcoreapp3.0\NUnitTest.AssemblyInfoInputs.cache
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\obj\Debug\netcoreapp3.0\NUnitTest.AssemblyInfo.cs
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\obj\Debug\netcoreapp3.0\NUnitTest.dll
+E:\微服务\HandleSolution\HandleSolution\NUnitTest\obj\Debug\netcoreapp3.0\NUnitTest.pdb

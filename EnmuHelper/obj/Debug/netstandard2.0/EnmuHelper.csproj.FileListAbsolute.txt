@@ -6,3 +6,11 @@ C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\EnmuHelper\ob
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\EnmuHelper\obj\Debug\netstandard2.0\EnmuHelper.dll
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\EnmuHelper\obj\Debug\netstandard2.0\EnmuHelper.pdb
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\EnmuHelper\obj\Debug\netstandard2.0\EnmuHelper.csprojAssemblyReference.cache
+E:\微服务\HandleSolution\HandleSolution\EnmuHelper\bin\Debug\netstandard2.0\EnmuHelper.deps.json
+E:\微服务\HandleSolution\HandleSolution\EnmuHelper\bin\Debug\netstandard2.0\EnmuHelper.dll
+E:\微服务\HandleSolution\HandleSolution\EnmuHelper\bin\Debug\netstandard2.0\EnmuHelper.pdb
+E:\微服务\HandleSolution\HandleSolution\EnmuHelper\obj\Debug\netstandard2.0\EnmuHelper.AssemblyInfoInputs.cache
+E:\微服务\HandleSolution\HandleSolution\EnmuHelper\obj\Debug\netstandard2.0\EnmuHelper.AssemblyInfo.cs
+E:\微服务\HandleSolution\HandleSolution\EnmuHelper\obj\Debug\netstandard2.0\EnmuHelper.dll
+E:\微服务\HandleSolution\HandleSolution\EnmuHelper\obj\Debug\netstandard2.0\EnmuHelper.pdb
+E:\微服务\HandleSolution\HandleSolution\EnmuHelper\obj\Debug\netstandard2.0\EnmuHelper.csprojAssemblyReference.cache

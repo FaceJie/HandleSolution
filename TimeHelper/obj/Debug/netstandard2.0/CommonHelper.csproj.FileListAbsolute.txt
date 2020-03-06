@@ -17,3 +17,14 @@ C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\TimeHelper\ob
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\TimeHelper\bin\Debug\netstandard2.0\SharedHelper.dll
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\TimeHelper\bin\Debug\netstandard2.0\SharedHelper.pdb
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.csproj.CopyComplete
+E:\微服务\HandleSolution\HandleSolution\TimeHelper\bin\Debug\netstandard2.0\CommonHelper.deps.json
+E:\微服务\HandleSolution\HandleSolution\TimeHelper\bin\Debug\netstandard2.0\CommonHelper.dll
+E:\微服务\HandleSolution\HandleSolution\TimeHelper\bin\Debug\netstandard2.0\CommonHelper.pdb
+E:\微服务\HandleSolution\HandleSolution\TimeHelper\bin\Debug\netstandard2.0\SharedHelper.dll
+E:\微服务\HandleSolution\HandleSolution\TimeHelper\bin\Debug\netstandard2.0\SharedHelper.pdb
+E:\微服务\HandleSolution\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.csprojAssemblyReference.cache
+E:\微服务\HandleSolution\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.AssemblyInfoInputs.cache
+E:\微服务\HandleSolution\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.AssemblyInfo.cs
+E:\微服务\HandleSolution\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.csproj.CopyComplete
+E:\微服务\HandleSolution\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.dll
+E:\微服务\HandleSolution\HandleSolution\TimeHelper\obj\Debug\netstandard2.0\CommonHelper.pdb

@@ -6,3 +6,11 @@ C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\SharedHelper\
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\SharedHelper\obj\Debug\netstandard2.0\SharedHelper.dll
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\SharedHelper\obj\Debug\netstandard2.0\SharedHelper.pdb
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\SharedHelper\obj\Debug\netstandard2.0\SharedHelper.csprojAssemblyReference.cache
+E:\微服务\HandleSolution\HandleSolution\SharedHelper\bin\Debug\netstandard2.0\SharedHelper.deps.json
+E:\微服务\HandleSolution\HandleSolution\SharedHelper\bin\Debug\netstandard2.0\SharedHelper.dll
+E:\微服务\HandleSolution\HandleSolution\SharedHelper\bin\Debug\netstandard2.0\SharedHelper.pdb
+E:\微服务\HandleSolution\HandleSolution\SharedHelper\obj\Debug\netstandard2.0\SharedHelper.AssemblyInfoInputs.cache
+E:\微服务\HandleSolution\HandleSolution\SharedHelper\obj\Debug\netstandard2.0\SharedHelper.AssemblyInfo.cs
+E:\微服务\HandleSolution\HandleSolution\SharedHelper\obj\Debug\netstandard2.0\SharedHelper.dll
+E:\微服务\HandleSolution\HandleSolution\SharedHelper\obj\Debug\netstandard2.0\SharedHelper.pdb
+E:\微服务\HandleSolution\HandleSolution\SharedHelper\obj\Debug\netstandard2.0\SharedHelper.csprojAssemblyReference.cache

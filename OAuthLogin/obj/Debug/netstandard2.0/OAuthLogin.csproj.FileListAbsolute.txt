@@ -13,3 +13,11 @@ C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\OAuthLogin\ob
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\OAuthLogin\obj\Debug\netstandard2.0\OAuthLogin.dll
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\OAuthLogin\obj\Debug\netstandard2.0\OAuthLogin.pdb
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\OAuthLogin\obj\Debug\netstandard2.0\OAuthLogin.csprojAssemblyReference.cache
+E:\微服务\HandleSolution\HandleSolution\OAuthLogin\bin\Debug\netstandard2.0\OAuthLogin.deps.json
+E:\微服务\HandleSolution\HandleSolution\OAuthLogin\bin\Debug\netstandard2.0\OAuthLogin.dll
+E:\微服务\HandleSolution\HandleSolution\OAuthLogin\bin\Debug\netstandard2.0\OAuthLogin.pdb
+E:\微服务\HandleSolution\HandleSolution\OAuthLogin\obj\Debug\netstandard2.0\OAuthLogin.csprojAssemblyReference.cache
+E:\微服务\HandleSolution\HandleSolution\OAuthLogin\obj\Debug\netstandard2.0\OAuthLogin.AssemblyInfoInputs.cache
+E:\微服务\HandleSolution\HandleSolution\OAuthLogin\obj\Debug\netstandard2.0\OAuthLogin.AssemblyInfo.cs
+E:\微服务\HandleSolution\HandleSolution\OAuthLogin\obj\Debug\netstandard2.0\OAuthLogin.dll
+E:\微服务\HandleSolution\HandleSolution\OAuthLogin\obj\Debug\netstandard2.0\OAuthLogin.pdb

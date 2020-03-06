@@ -349,3 +349,15 @@ C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\HandleWeb\bin
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\HandleWeb\bin\Debug\netcoreapp3.0\NLog.Web.AspNetCore.dll
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.0\HandleWeb.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Lenovo\source\repos\FaceJie\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.0\HandleWeb.MvcApplicationPartsAssemblyInfo.cache
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.0\HandleWeb.csprojAssemblyReference.cache
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.0\HandleWeb.MvcApplicationPartsAssemblyInfo.cs
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.0\HandleWeb.MvcApplicationPartsAssemblyInfo.cache
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.0\HandleWeb.RazorAssemblyInfo.cache
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.0\HandleWeb.RazorAssemblyInfo.cs
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.0\HandleWeb.AssemblyInfoInputs.cache
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.0\HandleWeb.AssemblyInfo.cs
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.0\HandleWeb.TagHelpers.input.cache
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.0\HandleWeb.TagHelpers.output.cache
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.0\HandleWeb.dll
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.0\HandleWeb.pdb
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.0\HandleWeb.RazorCoreGenerate.cache

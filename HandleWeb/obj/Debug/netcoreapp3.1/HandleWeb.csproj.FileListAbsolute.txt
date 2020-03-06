@@ -1,0 +1,11 @@
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.1\HandleWeb.csprojAssemblyReference.cache
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.1\HandleWeb.MvcApplicationPartsAssemblyInfo.cs
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.1\HandleWeb.MvcApplicationPartsAssemblyInfo.cache
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.1\HandleWeb.RazorAssemblyInfo.cache
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.1\HandleWeb.RazorAssemblyInfo.cs
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.1\HandleWeb.AssemblyInfoInputs.cache
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.1\HandleWeb.AssemblyInfo.cs
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.1\HandleWeb.TagHelpers.input.cache
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.1\HandleWeb.TagHelpers.output.cache
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.1\HandleWeb.dll
+E:\微服务\HandleSolution\HandleSolution\HandleWeb\obj\Debug\netcoreapp3.1\HandleWeb.pdb
